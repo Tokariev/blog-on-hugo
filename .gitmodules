@@ -1,0 +1,7 @@
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Tokariev/tokariev.gitihub.io.git
+	branch = main
