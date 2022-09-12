@@ -1,4 +1,4 @@
-baseURL = 'http://tokariev.github.io/'
+baseURL = 'https://tokariev.github.io/'
 languageCode = 'en-us'
 title = 'MBlog'
 theme='cactus'
