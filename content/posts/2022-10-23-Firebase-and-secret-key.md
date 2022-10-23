@@ -1,5 +1,5 @@
 ---
-title: "Firebase set Secret Key"
+title: "Firebase and Secret Key"
 date: 2022-10-23T17:12:45+02:00
 tags:
     - firebase
