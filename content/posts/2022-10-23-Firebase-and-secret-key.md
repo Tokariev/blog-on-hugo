@@ -41,7 +41,7 @@ app.get("/payment_url", (req, res) => {
       ...
       {
         headers: {
-          "X-Token": functions.config().monobank.token,
+          "X-Token": functions.config().service.token,
         },
       }
     )
