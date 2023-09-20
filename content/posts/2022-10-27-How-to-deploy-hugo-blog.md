@@ -3,7 +3,7 @@ title: "How to Deploy Hugo Blog"
 date: 2022-10-27T21:06:24+02:00
 ---
 
-`hugo new posts/2022-10-27-How-to-deploy-hugo-blog.md`
+`hugo new content posts/my-first-post.md`
 
 content/posts - Where you write and edit your posts...
 
